@@ -1,0 +1,5 @@
+/.hwfenv
+/build
+/dist
+/main.spec
+/__pycache__
